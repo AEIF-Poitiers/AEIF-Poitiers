@@ -3,10 +3,10 @@
 Bienvenue sur le profil GitHub de l'AEIF, l'Association des Étudiants en Informatique du Futuroscope.
 
 ## Nous rejoindre
-Pour profiter des boissons chaudes ☕ et de la bonne ambiance sur le campus, vous pouvez devenir adhérent et nous rejoindre via une inscription sur <a href="https://www.helloasso.com/associations/aeif/adhesions/inscription-aeif">ce lien</a> ou en venant nous voir dans le local de l'association. 
+Pour profiter des boissons chaudes ☕ et de la bonne ambiance sur le campus, vous pouvez devenir adhérent et nous rejoindre via une inscription sur <a href="https://www.helloasso.com/associations/aeif/adhesions/inscription-aeif">Hello Asso</a> ou en venant nous voir dans le local de l'association. 
 
 ## Participer
-Nous avons mis en place un répertoire communautaire accessible via <a href="https://github.com/AEIF-Poitiers/Community">ce lien</a> dans lequel nous vous invitons à partager vos projet! Plus d'informations à ce sujet sur le README du répertoire.
+Nous avons mis en place un répertoire communautaire accessible via <a href="https://github.com/AEIF-Poitiers/Community">GitHub</a> dans lequel nous vous invitons à partager vos projet! Plus d'informations à ce sujet sur le README du répertoire.
 
 ## Le bureau 
 
